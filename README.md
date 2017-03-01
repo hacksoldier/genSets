@@ -34,3 +34,7 @@ foo.setLike();
  Following the system prompt that appears, restart IntelliJ IDEA to activate the installed plugin, or postpone it, at your choice.
 
  Link:[https://www.jetbrains.com/help/idea/2016.2/installing-plugin-from-disk.html]
+
+
+##To Develop
+Into Intellij setting project SDK with IntelliJ IDEA IU-[version]
